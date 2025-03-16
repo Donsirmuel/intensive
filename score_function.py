@@ -1,6 +1,6 @@
 
 def Scores(name,score):
-    file = open('text.txt', mode="w")
+    file = open('text.txt', mode="a")
     
     if 80 <= score <= 100:
         print("Excellent")

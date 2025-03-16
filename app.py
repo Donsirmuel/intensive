@@ -13,8 +13,9 @@ try:
             score = float(input("score: "))
 
             Scores(name, score)
+            
             i += 1
-            break
+        break
 
 except:
     print("invalid input")

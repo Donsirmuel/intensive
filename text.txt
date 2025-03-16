@@ -1,1 +1,3 @@
-short, with score of 33.0 is fair
+ss, with score of 22.0 is fair
+sam, with score of 22.0 is fair
+saa, with score of 99.0 is Excellent
