@@ -1,5 +1,3 @@
-Below is a sample README.md file for a score grading app. This assumes a basic application that calculates grades based on scores, but feel free to let me know if you have specific features or details you'd like to include!
-markdown
 # Score Grading App
 
 Welcome to the **Score Grading App**, a simple and efficient tool designed to calculate grades based on input scores. Whether you're a teacher, student, or anyone needing to evaluate performance, this app provides an easy way to convert numerical scores into letter grades or other custom grading scales.
